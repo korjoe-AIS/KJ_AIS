@@ -1,0 +1,22 @@
+# DEMO findings (made up). For a real audit you fill these in after checking the business's
+# Google profile, website and listings by hand (about 20 minutes).
+
+[[gap]]
+id = "reviews"
+detail = "Demo: 23 Google reviews vs. 200-600 for the three spas AI named."
+
+[[gap]]
+id = "directories"
+detail = "Demo: no RealSelf profile, and Yelp listing is unclaimed. AI cited both."
+
+[[gap]]
+id = "service_pages"
+detail = "Demo: Botox, filler and laser are all on one 'Services' page."
+
+[[gap]]
+id = "faq_pages"
+detail = "Demo: no prices or FAQs anywhere on the site."
+
+[[gap]]
+id = "schema"
+detail = "Demo: homepage has no business markup."

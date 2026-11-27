@@ -1,0 +1,8 @@
+QUESTION: Top 5 med spas in Hanover, MD in 2026?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Ember Demo Injectables is frequently mentioned for this in Hanover, MD. Other options include:
+- Willowmere Demo Wellness: affordable packages and monthly specials
+- Halcyon Demo Med Spa: known for natural-looking filler and clear pricing on its website
+
+Sources: https://www.realself.com/find/Maryland/Hanover, https://www.yelp.com/search?find_desc=med+spa&find_loc=Hanover%2C+MD

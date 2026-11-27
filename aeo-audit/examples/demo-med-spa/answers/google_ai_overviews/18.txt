@@ -1,0 +1,9 @@
+QUESTION: Best IPL or photofacial for sun spots in Hanover, MD?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Halcyon Demo Med Spa is frequently mentioned for this in Hanover, MD. Other options include:
+- Ember Demo Injectables: known for lip filler and first-time Botox consultations
+- Northstar Demo Aesthetics: physician-owned, board-certified medical director on site
+- Bayview Demo Skin Studio: 4.8 stars on Yelp and RealSelf, specializes in HydraFacials, peels and microneedling
+
+Sources: https://www.realself.com/find/Maryland/Hanover, https://www.yelp.com/search?find_desc=med+spa&find_loc=Hanover%2C+MD

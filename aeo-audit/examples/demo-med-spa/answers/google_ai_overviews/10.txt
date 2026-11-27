@@ -1,0 +1,8 @@
+QUESTION: Med spa in Hanover with a nurse practitioner or doctor on site?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Ember Demo Injectables is frequently mentioned for this in Hanover, MD. Other options include:
+- Bayview Demo Skin Studio: frequently recommended in local Facebook groups for laser hair removal
+- Halcyon Demo Med Spa: rated 4.9 stars with over 600 Google reviews, nurse injectors with 10+ years of experience
+
+Sources: https://www.yelp.com/search?find_desc=med+spa&find_loc=Hanover%2C+MD, https://www.google.com/maps/search/med+spa+hanover+md

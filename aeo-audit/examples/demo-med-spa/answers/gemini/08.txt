@@ -1,0 +1,11 @@
+QUESTION: Where can I get a HydraFacial in Hanover?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Based on Google reviews and local listings, here are a few places to consider:
+
+* **Bayview Demo Skin Studio:** 4.8 stars on Yelp and RealSelf, specializes in HydraFacials, peels and microneedling.
+* **Ember Demo Injectables:** Known for lip filler and first-time Botox consultations.
+* **Northstar Demo Aesthetics:** Offers CoolSculpting, IPL photofacials and medical weight loss.
+* **Halcyon Demo Med Spa:** Known for natural-looking filler and clear pricing on its website.
+
+Check each provider's Google Business Profile for current hours and pricing.

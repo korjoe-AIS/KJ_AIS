@@ -1,0 +1,10 @@
+QUESTION: Med spa in Hanover with a nurse practitioner or doctor on site?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Here are some well-regarded options in the Hanover, MD area:
+
+1. **Northstar Demo Aesthetics** - Offers CoolSculpting, IPL photofacials and medical weight loss.
+2. **Ember Demo Injectables** - Known for lip filler and first-time Botox consultations.
+3. **Halcyon Demo Med Spa** - Rated 4.9 stars with over 600 Google reviews, nurse injectors with 10+ years of experience.
+
+Tip: book a consultation first and ask who will do your treatment.

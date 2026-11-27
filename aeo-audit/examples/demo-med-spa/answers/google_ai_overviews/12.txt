@@ -1,0 +1,9 @@
+QUESTION: Best place for CoolSculpting or body contouring in Hanover, MD?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Bayview Demo Skin Studio is frequently mentioned for this in Hanover, MD. Other options include:
+- Halcyon Demo Med Spa: rated 4.9 stars with over 600 Google reviews, nurse injectors with 10+ years of experience
+- Northstar Demo Aesthetics: physician-owned, board-certified medical director on site
+- Ember Demo Injectables: a boutique injector studio with 4.9 stars from 210 reviews
+
+Sources: https://www.realself.com/find/Maryland/Hanover, https://www.yelp.com/search?find_desc=med+spa&find_loc=Hanover%2C+MD

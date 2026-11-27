@@ -1,0 +1,26 @@
+name = "Law firms"
+# Note: law firm names are often surnames ("Smith & Lee"). The tool also counts names with "&", "LLP", "PC" or "Law".
+name_hints = ["Law", "Legal", "Attorney", "Attorneys", "Lawyer", "Lawyers", "LLP", "LLC", "PC", "PLLC", "Firm", "Group", "Associates", "Injury", "&"]
+directories = ["Google", "Avvo", "Justia", "FindLaw", "Martindale", "Super Lawyers", "Lawyers.com", "Best Lawyers", "Yelp", "BBB", "Nolo", "State Bar"]
+questions = [
+  "Who is the best personal injury lawyer in {place}?",
+  "I was in a car accident in {city}. Which law firm should I call?",
+  "Top-rated family law attorney in {place} for divorce?",
+  "Best estate planning lawyer in {place} for a will or trust?",
+  "Affordable lawyer in {city} for a simple will?",
+  "Which law firms in {place} have the best reviews?",
+  "Who is the best DUI lawyer in {place}?",
+  "Small business lawyer in {city} for contracts and setting up an LLC?",
+  "Best workers' comp attorney in {place}?",
+  "Lawyer in {city} who offers a free consultation?",
+  "Best criminal defense attorney in {place}?",
+  "Who handles child custody cases well in {city}?",
+  "Real estate attorney in {place} for a home closing?",
+  "Best employment lawyer in {place} for wrongful termination?",
+  "Which personal injury firms in {city} work on contingency?",
+  "Probate lawyer in {place}?",
+  "Lawyer in {city} who speaks Spanish?",
+  "Which law firm do people in {place} recommend most?",
+  "How do I choose a good lawyer in {city}, and who should I look at?",
+  "Top 5 law firms in {place} in 2026?",
+]

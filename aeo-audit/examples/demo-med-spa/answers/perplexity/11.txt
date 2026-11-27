@@ -1,0 +1,21 @@
+QUESTION: Who does the most natural-looking filler in Hanover, MD?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Several med spas near Hanover, MD stand out based on reviews and services [1][2].
+
+## Bayview Demo Skin Studio
+- 4.8 stars on Yelp and RealSelf, specializes in HydraFacials, peels and microneedling [2].
+
+## Northstar Demo Aesthetics
+- Has a detailed FAQ and before-and-after gallery on its website [1].
+
+## Ember Demo Injectables
+- Known for lip filler and first-time Botox consultations [3].
+
+## Willowmere Demo Wellness
+- Affordable packages and monthly specials [2].
+
+Sources:
+[1] https://bayview-demo-skin.example/memberships
+[2] https://halcyon-demo-medspa.example/botox
+[3] https://www.realself.com/find/Maryland/Hanover

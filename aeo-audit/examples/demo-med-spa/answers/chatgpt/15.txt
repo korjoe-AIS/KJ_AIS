@@ -1,0 +1,10 @@
+QUESTION: Best chemical peel in Hanover?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Here are some well-regarded options in the Hanover, MD area:
+
+1. **Halcyon Demo Med Spa** - Rated 4.9 stars with over 600 Google reviews, nurse injectors with 10+ years of experience.
+2. **Bayview Demo Skin Studio** - Open Saturdays with online booking; popular membership plans.
+3. **Ember Demo Injectables** - Known for lip filler and first-time Botox consultations.
+
+Tip: book a consultation first and ask who will do your treatment.

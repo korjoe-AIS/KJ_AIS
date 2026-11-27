@@ -1,0 +1,18 @@
+QUESTION: Where should I get Botox in Hanover, MD?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Several med spas near Hanover, MD stand out based on reviews and services [1][2].
+
+## Halcyon Demo Med Spa
+- Rated 4.9 stars with over 600 Google reviews, nurse injectors with 10+ years of experience [2].
+
+## Bayview Demo Skin Studio
+- Frequently recommended in local Facebook groups for laser hair removal [1].
+
+## Ember Demo Injectables
+- Known for lip filler and first-time Botox consultations [1].
+
+Sources:
+[1] https://www.google.com/maps/search/med+spa+hanover+md
+[2] https://www.realself.com/find/Maryland/Hanover
+[3] https://www.facebook.com/groups/demo-hanover-moms

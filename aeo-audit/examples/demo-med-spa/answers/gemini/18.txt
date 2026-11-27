@@ -1,0 +1,10 @@
+QUESTION: Best IPL or photofacial for sun spots in Hanover, MD?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Based on Google reviews and local listings, here are a few places to consider:
+
+* **Halcyon Demo Med Spa:** Rated 4.9 stars with over 600 Google reviews, nurse injectors with 10+ years of experience.
+* **Northstar Demo Aesthetics:** Offers CoolSculpting, IPL photofacials and medical weight loss.
+* **Bayview Demo Skin Studio:** Frequently recommended in local Facebook groups for laser hair removal.
+
+Check each provider's Google Business Profile for current hours and pricing.

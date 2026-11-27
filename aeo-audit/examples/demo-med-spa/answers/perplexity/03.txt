@@ -1,0 +1,18 @@
+QUESTION: Top-rated med spas in Hanover for lip filler?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Several med spas near Hanover, MD stand out based on reviews and services [1][2].
+
+## Northstar Demo Aesthetics
+- Has a detailed FAQ and before-and-after gallery on its website [3].
+
+## Bayview Demo Skin Studio
+- 4.8 stars on Yelp and RealSelf, specializes in HydraFacials, peels and microneedling [3].
+
+## Halcyon Demo Med Spa
+- Voted Best Med Spa by a local magazine; offers Botox, filler and laser treatments [1].
+
+Sources:
+[1] https://halcyon-demo-medspa.example/botox
+[2] https://www.realself.com/find/Maryland/Hanover
+[3] https://www.yelp.com/search?find_desc=med+spa&find_loc=Hanover%2C+MD

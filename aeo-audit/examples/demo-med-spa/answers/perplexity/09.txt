@@ -1,0 +1,21 @@
+QUESTION: Best med spa in Hanover, MD for acne scars or microneedling?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Several med spas near Hanover, MD stand out based on reviews and services [1][2].
+
+## Willowmere Demo Wellness
+- Affordable packages and monthly specials [1].
+
+## Northstar Demo Aesthetics
+- Physician-owned, board-certified medical director on site [1].
+
+## Bayview Demo Skin Studio
+- 4.8 stars on Yelp and RealSelf, specializes in HydraFacials, peels and microneedling [1].
+
+## Halcyon Demo Med Spa
+- Rated 4.9 stars with over 600 Google reviews, nurse injectors with 10+ years of experience [2].
+
+Sources:
+[1] https://bayview-demo-skin.example/memberships
+[2] https://www.yelp.com/search?find_desc=med+spa&find_loc=Hanover%2C+MD
+[3] https://halcyon-demo-medspa.example/botox

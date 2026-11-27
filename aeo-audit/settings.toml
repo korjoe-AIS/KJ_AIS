@@ -1,0 +1,33 @@
+# Shared settings for every audit. Change once, applies everywhere.
+
+[brand]
+name = "KJ AIS"
+tagline = "AI visibility audits for local businesses"
+# Shown on the call-to-action line of the report. Fill these in before you send a real audit.
+contact = "your-email@example.com"
+call_link = ""          # e.g. a Calendly link, or leave empty
+
+[report]
+# How many competitors, gaps and quick wins the front page shows.
+top_competitors = 3
+max_gaps = 5
+quick_wins = 3
+
+# The four AI tools we check, in the order they appear on the report.
+# "manual_only = true" means there is no official API, so it is always pasted by hand.
+[models.chatgpt]
+label = "ChatGPT"
+manual_only = false
+
+[models.perplexity]
+label = "Perplexity"
+manual_only = false
+
+[models.gemini]
+label = "Gemini"
+manual_only = false
+
+[models.google_ai_overviews]
+label = "Google AI Overviews"
+short = "AI Overviews"
+manual_only = true

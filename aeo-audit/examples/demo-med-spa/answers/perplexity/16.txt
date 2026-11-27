@@ -1,0 +1,21 @@
+QUESTION: Which med spas in Hanover, MD offer memberships or packages?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Several med spas near Hanover, MD stand out based on reviews and services [1][2].
+
+## Bayview Demo Skin Studio
+- Frequently recommended in local Facebook groups for laser hair removal [3].
+
+## Northstar Demo Aesthetics
+- Physician-owned, board-certified medical director on site [2].
+
+## Ember Demo Injectables
+- Known for lip filler and first-time Botox consultations [2].
+
+## Lumen Demo Aesthetics
+- A newer spa offering Botox and facials; fewer reviews so far [3].
+
+Sources:
+[1] https://www.realself.com/find/Maryland/Hanover
+[2] https://www.yelp.com/search?find_desc=med+spa&find_loc=Hanover%2C+MD
+[3] https://www.facebook.com/groups/demo-hanover-moms

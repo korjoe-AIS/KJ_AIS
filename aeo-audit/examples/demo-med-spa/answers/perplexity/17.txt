@@ -1,0 +1,18 @@
+QUESTION: Med spa near Hanover that is open on Saturdays?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Several med spas near Hanover, MD stand out based on reviews and services [1][2].
+
+## Northstar Demo Aesthetics
+- Has a detailed FAQ and before-and-after gallery on its website [2].
+
+## Willowmere Demo Wellness
+- Affordable packages and monthly specials [2].
+
+## Bayview Demo Skin Studio
+- 4.8 stars on Yelp and RealSelf, specializes in HydraFacials, peels and microneedling [1].
+
+Sources:
+[1] https://halcyon-demo-medspa.example/botox
+[2] https://www.google.com/maps/search/med+spa+hanover+md
+[3] https://www.facebook.com/groups/demo-hanover-moms

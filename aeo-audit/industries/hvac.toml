@@ -1,0 +1,25 @@
+name = "HVAC"
+name_hints = ["Heating", "Air", "Cooling", "HVAC", "Mechanical", "Comfort", "Climate", "Plumbing", "Furnace", "Services", "Service", "Conditioning", "Heat", "Home"]
+directories = ["Google", "Yelp", "Angi", "Angie's List", "HomeAdvisor", "BBB", "Thumbtack", "Nextdoor", "Facebook", "Carrier", "Trane", "Lennox"]
+questions = [
+  "Who is the best HVAC company in {place}?",
+  "My AC stopped working. Who should I call in {city}?",
+  "Emergency furnace repair in {place} tonight?",
+  "Most trusted heating and cooling company in {place}?",
+  "Best company to replace my AC unit in {city}?",
+  "Who installs heat pumps in {place}, and who is best?",
+  "Affordable HVAC repair in {city} that won't upsell me?",
+  "Which HVAC companies in {place} have the best reviews?",
+  "HVAC company in {city} that offers financing for a new system?",
+  "Who does ductless mini-split installation in {place}?",
+  "Best HVAC maintenance plan in {city}?",
+  "24/7 HVAC service in {place}?",
+  "Who should I get a second opinion from on an AC replacement quote in {city}?",
+  "Best furnace installation company in {place}?",
+  "Which HVAC companies in {place} are family owned?",
+  "Who cleans air ducts in {city} and is legit?",
+  "HVAC contractor in {place} that handles rebates for heat pumps?",
+  "Which HVAC company do people in {city} recommend on Nextdoor?",
+  "I just bought a house in {city}. Who should service my HVAC system?",
+  "Top 5 HVAC companies in {place} in 2026?",
+]

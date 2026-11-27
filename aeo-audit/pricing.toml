@@ -1,0 +1,34 @@
+# API mode prices. Used ONLY to estimate cost before anything is spent.
+# Checked against the official pricing pages on 2026-11-27. Prices change: re-check before
+# turning API mode on, and update these numbers.
+#   OpenAI:     https://developers.openai.com/api/docs/pricing
+#   Perplexity: https://docs.perplexity.ai/getting-started/pricing
+#   Gemini:     https://ai.google.dev/gemini-api/docs/pricing
+#
+# Token guesses per question: ~60 tokens in (the question), ~700 tokens out (the answer).
+
+[chatgpt]
+model = "gpt-6-luna"                 # cheapest current text model on OpenAI's page. Check it supports web search.
+input_per_million = 0.05
+output_per_million = 0.25
+per_call_fee = 0.025                 # "Web search preview" tool: $25 per 1,000 calls, search tokens free
+notes = "Web search tool fee is most of the cost."
+
+[perplexity]
+model = "sonar"
+input_per_million = 0.25
+output_per_million = 2.50
+per_call_fee = 0.005                 # NOT confirmed on the pricing page. Assumed worst case $5 per 1,000 requests.
+notes = "Per-request search fee could not be confirmed; estimate assumes the high end."
+
+[gemini]
+model = "gemini-3.6-flash"
+input_per_million = 0.75             # rises to 1.50 on 2027-01-01
+output_per_million = 3.75            # rises to 7.50 on 2027-01-01
+per_call_fee = 0.014                 # Google Search grounding: $14 per 1,000 after 5,000 free per month (paid tier only)
+free_calls_per_month = 5000
+notes = "Grounding needs a paid (billing-enabled) key. First 5,000 grounded calls a month are free."
+
+[assumptions]
+input_tokens_per_question = 60
+output_tokens_per_question = 700

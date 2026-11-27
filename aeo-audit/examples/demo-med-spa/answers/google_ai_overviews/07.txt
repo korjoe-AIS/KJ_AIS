@@ -1,0 +1,9 @@
+QUESTION: Which med spa in Hanover, MD has the best reviews?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Willowmere Demo Wellness is frequently mentioned for this in Hanover, MD. Other options include:
+- Lumen Demo Aesthetics: a newer spa offering Botox and facials; fewer reviews so far
+- Ember Demo Injectables: a boutique injector studio with 4.9 stars from 210 reviews
+- Halcyon Demo Med Spa: voted Best Med Spa by a local magazine; offers Botox, filler and laser treatments
+
+Sources: https://www.google.com/maps/search/med+spa+hanover+md, https://www.yelp.com/search?find_desc=med+spa&find_loc=Hanover%2C+MD

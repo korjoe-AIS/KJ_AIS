@@ -1,0 +1,25 @@
+name = "Med spas"
+name_hints = ["Med Spa", "MedSpa", "Medspa", "Injectables", "Injector", "Injectors", "Studio", "Botox", "Aesthetics", "Aesthetic", "Skin", "Laser", "Wellness", "Rejuvenation", "Beauty", "Clinic", "Derm", "Dermatology", "Spa", "Glow"]
+directories = ["Google", "Yelp", "RealSelf", "Allergan", "Alle", "Instagram", "Facebook", "BBB", "Groupon", "Nextdoor"]
+questions = [
+  "What is the best med spa in {place}?",
+  "Where should I get Botox in {place}?",
+  "Top-rated med spas in {city} for lip filler?",
+  "Who is the most experienced injector in {place}?",
+  "Best place for laser hair removal in {place}?",
+  "Affordable Botox in {city} that is still safe?",
+  "Which med spa in {place} has the best reviews?",
+  "Where can I get a HydraFacial in {city}?",
+  "Best med spa in {place} for acne scars or microneedling?",
+  "Med spa in {city} with a nurse practitioner or doctor on site?",
+  "Who does the most natural-looking filler in {place}?",
+  "Best place for CoolSculpting or body contouring in {place}?",
+  "Where to get medical weight loss (semaglutide) in {city}?",
+  "Recommend a med spa in {place} for a first-time Botox client.",
+  "Best chemical peel in {city}?",
+  "Which med spas in {place} offer memberships or packages?",
+  "Med spa near {city} that is open on Saturdays?",
+  "Best IPL or photofacial for sun spots in {place}?",
+  "Where do locals in {city} go for skin tightening?",
+  "Top 5 med spas in {place} in 2026?",
+]

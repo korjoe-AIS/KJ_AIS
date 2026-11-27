@@ -1,0 +1,18 @@
+QUESTION: Where can I get a HydraFacial in Hanover?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Several med spas near Hanover, MD stand out based on reviews and services [1][2].
+
+## Northstar Demo Aesthetics
+- Offers CoolSculpting, IPL photofacials and medical weight loss [3].
+
+## Bayview Demo Skin Studio
+- Frequently recommended in local Facebook groups for laser hair removal [2].
+
+## Halcyon Demo Med Spa
+- Known for natural-looking filler and clear pricing on its website [2].
+
+Sources:
+[1] https://halcyon-demo-medspa.example/botox
+[2] https://www.facebook.com/groups/demo-hanover-moms
+[3] https://www.realself.com/find/Maryland/Hanover

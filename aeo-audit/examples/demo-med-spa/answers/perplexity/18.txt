@@ -1,0 +1,18 @@
+QUESTION: Best IPL or photofacial for sun spots in Hanover, MD?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Several med spas near Hanover, MD stand out based on reviews and services [1][2].
+
+## Bayview Demo Skin Studio
+- Open Saturdays with online booking; popular membership plans [2].
+
+## Northstar Demo Aesthetics
+- Offers CoolSculpting, IPL photofacials and medical weight loss [3].
+
+## Willowmere Demo Wellness
+- Offers semaglutide weight loss programs and IV therapy [3].
+
+Sources:
+[1] https://www.facebook.com/groups/demo-hanover-moms
+[2] https://halcyon-demo-medspa.example/botox
+[3] https://www.google.com/maps/search/med+spa+hanover+md

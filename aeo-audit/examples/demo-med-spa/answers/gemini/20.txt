@@ -1,0 +1,10 @@
+QUESTION: Top 5 med spas in Hanover, MD in 2026?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Based on Google reviews and local listings, here are a few places to consider:
+
+* **Ember Demo Injectables:** Known for lip filler and first-time Botox consultations.
+* **Halcyon Demo Med Spa:** Voted Best Med Spa by a local magazine; offers Botox, filler and laser treatments.
+* **Northstar Demo Aesthetics:** Physician-owned, board-certified medical director on site.
+
+Check each provider's Google Business Profile for current hours and pricing.

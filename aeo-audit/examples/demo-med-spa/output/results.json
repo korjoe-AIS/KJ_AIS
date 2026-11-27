@@ -1,0 +1,454 @@
+{
+  "business": "Lumen Demo Aesthetics",
+  "industry": "Med spas",
+  "place": "Hanover, MD",
+  "date": "2026-11-27",
+  "models": [
+    "chatgpt",
+    "perplexity",
+    "gemini",
+    "google_ai_overviews"
+  ],
+  "per_model": {
+    "chatgpt": {
+      "label": "ChatGPT",
+      "mentioned": 2,
+      "answered": 20,
+      "questions": 20
+    },
+    "perplexity": {
+      "label": "Perplexity",
+      "mentioned": 5,
+      "answered": 20,
+      "questions": 20
+    },
+    "gemini": {
+      "label": "Gemini",
+      "mentioned": 2,
+      "answered": 20,
+      "questions": 20
+    },
+    "google_ai_overviews": {
+      "label": "Google AI Overviews",
+      "mentioned": 1,
+      "answered": 20,
+      "questions": 20
+    }
+  },
+  "overall": {
+    "mentioned": 10,
+    "answered": 80,
+    "questions": 20,
+    "questions_with_any_mention": 7
+  },
+  "questions": [
+    {
+      "n": 1,
+      "question": "What is the best med spa in Hanover, MD?",
+      "mentioned_in": [
+        "perplexity"
+      ],
+      "answered_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ]
+    },
+    {
+      "n": 2,
+      "question": "Where should I get Botox in Hanover, MD?",
+      "mentioned_in": [],
+      "answered_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ]
+    },
+    {
+      "n": 3,
+      "question": "Top-rated med spas in Hanover for lip filler?",
+      "mentioned_in": [],
+      "answered_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ]
+    },
+    {
+      "n": 4,
+      "question": "Who is the most experienced injector in Hanover, MD?",
+      "mentioned_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini"
+      ],
+      "answered_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ]
+    },
+    {
+      "n": 5,
+      "question": "Best place for laser hair removal in Hanover, MD?",
+      "mentioned_in": [],
+      "answered_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ]
+    },
+    {
+      "n": 6,
+      "question": "Affordable Botox in Hanover that is still safe?",
+      "mentioned_in": [],
+      "answered_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ]
+    },
+    {
+      "n": 7,
+      "question": "Which med spa in Hanover, MD has the best reviews?",
+      "mentioned_in": [
+        "perplexity",
+        "google_ai_overviews"
+      ],
+      "answered_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ]
+    },
+    {
+      "n": 8,
+      "question": "Where can I get a HydraFacial in Hanover?",
+      "mentioned_in": [],
+      "answered_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ]
+    },
+    {
+      "n": 9,
+      "question": "Best med spa in Hanover, MD for acne scars or microneedling?",
+      "mentioned_in": [],
+      "answered_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ]
+    },
+    {
+      "n": 10,
+      "question": "Med spa in Hanover with a nurse practitioner or doctor on site?",
+      "mentioned_in": [
+        "gemini"
+      ],
+      "answered_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ]
+    },
+    {
+      "n": 11,
+      "question": "Who does the most natural-looking filler in Hanover, MD?",
+      "mentioned_in": [],
+      "answered_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ]
+    },
+    {
+      "n": 12,
+      "question": "Best place for CoolSculpting or body contouring in Hanover, MD?",
+      "mentioned_in": [],
+      "answered_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ]
+    },
+    {
+      "n": 13,
+      "question": "Where to get medical weight loss (semaglutide) in Hanover?",
+      "mentioned_in": [
+        "perplexity"
+      ],
+      "answered_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ]
+    },
+    {
+      "n": 14,
+      "question": "Recommend a med spa in Hanover, MD for a first-time Botox client.",
+      "mentioned_in": [
+        "chatgpt"
+      ],
+      "answered_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ]
+    },
+    {
+      "n": 15,
+      "question": "Best chemical peel in Hanover?",
+      "mentioned_in": [],
+      "answered_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ]
+    },
+    {
+      "n": 16,
+      "question": "Which med spas in Hanover, MD offer memberships or packages?",
+      "mentioned_in": [
+        "perplexity"
+      ],
+      "answered_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ]
+    },
+    {
+      "n": 17,
+      "question": "Med spa near Hanover that is open on Saturdays?",
+      "mentioned_in": [],
+      "answered_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ]
+    },
+    {
+      "n": 18,
+      "question": "Best IPL or photofacial for sun spots in Hanover, MD?",
+      "mentioned_in": [],
+      "answered_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ]
+    },
+    {
+      "n": 19,
+      "question": "Where do locals in Hanover go for skin tightening?",
+      "mentioned_in": [],
+      "answered_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ]
+    },
+    {
+      "n": 20,
+      "question": "Top 5 med spas in Hanover, MD in 2026?",
+      "mentioned_in": [],
+      "answered_in": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ]
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Bayview Demo Skin Studio",
+      "answers": 61,
+      "models": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ],
+      "top_reasons": [
+        "price, financing or memberships",
+        "convenience (hours, location, booking)",
+        "reviews and ratings"
+      ],
+      "snippets": [
+        "Open Saturdays with online booking; popular membership plans.",
+        "Frequently recommended in local Facebook groups for laser hair removal.",
+        "Open Saturdays with online booking; popular membership plans."
+      ],
+      "sources_seen_with": [
+        "Google reviews / Maps",
+        "RealSelf",
+        "Yelp",
+        "Facebook",
+        "halcyon-demo-medspa.example"
+      ]
+    },
+    {
+      "name": "Northstar Demo Aesthetics",
+      "answers": 59,
+      "models": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ],
+      "top_reasons": [
+        "clear website / helpful info",
+        "experience and credentials",
+        "convenience (hours, location, booking)"
+      ],
+      "snippets": [
+        "Has a detailed FAQ and before-and-after gallery on its website.",
+        "Physician-owned, board-certified medical director on site.",
+        "Physician-owned, board-certified medical director on site."
+      ],
+      "sources_seen_with": [
+        "Google reviews / Maps",
+        "RealSelf",
+        "Yelp",
+        "Facebook",
+        "halcyon-demo-medspa.example"
+      ]
+    },
+    {
+      "name": "Halcyon Demo Med Spa",
+      "answers": 56,
+      "models": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ],
+      "top_reasons": [
+        "reviews and ratings",
+        "experience and credentials",
+        "price, financing or memberships"
+      ],
+      "snippets": [
+        "Rated 4.9 stars with over 600 Google reviews, nurse injectors with 10+ years of experience.",
+        "Known for natural-looking filler and clear pricing on its website.",
+        "Known for natural-looking filler and clear pricing on its website. Tip: book a consultation first and ask who will do your treatment."
+      ],
+      "sources_seen_with": [
+        "Google reviews / Maps",
+        "RealSelf",
+        "Yelp",
+        "Facebook",
+        "halcyon-demo-medspa.example"
+      ]
+    },
+    {
+      "name": "Ember Demo Injectables",
+      "answers": 38,
+      "models": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ],
+      "top_reasons": [
+        "reviews and ratings",
+        "specific services offered"
+      ],
+      "snippets": [
+        "A boutique injector studio with 4.9 stars from 210 reviews.",
+        "A boutique injector studio with 4.9 stars from 210 reviews.",
+        "Known for lip filler and first-time Botox consultations."
+      ],
+      "sources_seen_with": [
+        "Google reviews / Maps",
+        "RealSelf",
+        "Yelp",
+        "Facebook",
+        "halcyon-demo-medspa.example"
+      ]
+    },
+    {
+      "name": "Willowmere Demo Wellness",
+      "answers": 29,
+      "models": [
+        "chatgpt",
+        "perplexity",
+        "gemini",
+        "google_ai_overviews"
+      ],
+      "top_reasons": [
+        "price, financing or memberships",
+        "convenience (hours, location, booking)",
+        "specific services offered"
+      ],
+      "snippets": [
+        "Affordable packages and monthly specials. Tip: book a consultation first and ask who will do your treatment.",
+        "Offers semaglutide weight loss programs and IV therapy. Tip: book a consultation first and ask who will do your treatment.",
+        "Affordable packages and monthly specials."
+      ],
+      "sources_seen_with": [
+        "Google reviews / Maps",
+        "RealSelf",
+        "Yelp",
+        "Facebook",
+        "halcyon-demo-medspa.example"
+      ]
+    }
+  ],
+  "sources": [
+    [
+      "Google reviews / Maps",
+      54
+    ],
+    [
+      "RealSelf",
+      40
+    ],
+    [
+      "Yelp",
+      37
+    ],
+    [
+      "Facebook",
+      28
+    ],
+    [
+      "halcyon-demo-medspa.example",
+      13
+    ],
+    [
+      "bayview-demo-skin.example",
+      7
+    ]
+  ],
+  "suggested_gaps": [
+    "reviews",
+    "directories",
+    "service_pages",
+    "faq_pages",
+    "gbp",
+    "nap",
+    "schema"
+  ]
+}

@@ -1,0 +1,10 @@
+QUESTION: Which med spas in Hanover, MD offer memberships or packages?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Based on Google reviews and local listings, here are a few places to consider:
+
+* **Northstar Demo Aesthetics:** Has a detailed FAQ and before-and-after gallery on its website.
+* **Ember Demo Injectables:** A boutique injector studio with 4.9 stars from 210 reviews.
+* **Bayview Demo Skin Studio:** Open Saturdays with online booking; popular membership plans.
+
+Check each provider's Google Business Profile for current hours and pricing.

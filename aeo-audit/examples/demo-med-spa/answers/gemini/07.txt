@@ -1,0 +1,10 @@
+QUESTION: Which med spa in Hanover, MD has the best reviews?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Based on Google reviews and local listings, here are a few places to consider:
+
+* **Willowmere Demo Wellness:** Affordable packages and monthly specials.
+* **Northstar Demo Aesthetics:** Has a detailed FAQ and before-and-after gallery on its website.
+* **Halcyon Demo Med Spa:** Rated 4.9 stars with over 600 Google reviews, nurse injectors with 10+ years of experience.
+
+Check each provider's Google Business Profile for current hours and pricing.
