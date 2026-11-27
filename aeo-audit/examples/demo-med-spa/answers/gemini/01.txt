@@ -1,0 +1,10 @@
+QUESTION: What is the best med spa in Hanover, MD?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Based on Google reviews and local listings, here are a few places to consider:
+
+* **Halcyon Demo Med Spa:** Known for natural-looking filler and clear pricing on its website.
+* **Bayview Demo Skin Studio:** Open Saturdays with online booking; popular membership plans.
+* **Northstar Demo Aesthetics:** Offers CoolSculpting, IPL photofacials and medical weight loss.
+
+Check each provider's Google Business Profile for current hours and pricing.

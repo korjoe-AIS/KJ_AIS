@@ -1,0 +1,9 @@
+QUESTION: Where should I get Botox in Hanover, MD?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Halcyon Demo Med Spa is frequently mentioned for this in Hanover, MD. Other options include:
+- Ember Demo Injectables: a boutique injector studio with 4.9 stars from 210 reviews
+- Northstar Demo Aesthetics: physician-owned, board-certified medical director on site
+- Willowmere Demo Wellness: affordable packages and monthly specials
+
+Sources: https://www.google.com/maps/search/med+spa+hanover+md, https://www.realself.com/find/Maryland/Hanover

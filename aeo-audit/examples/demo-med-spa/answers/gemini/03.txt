@@ -1,0 +1,10 @@
+QUESTION: Top-rated med spas in Hanover for lip filler?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Based on Google reviews and local listings, here are a few places to consider:
+
+* **Halcyon Demo Med Spa:** Known for natural-looking filler and clear pricing on its website.
+* **Northstar Demo Aesthetics:** Has a detailed FAQ and before-and-after gallery on its website.
+* **Bayview Demo Skin Studio:** 4.8 stars on Yelp and RealSelf, specializes in HydraFacials, peels and microneedling.
+
+Check each provider's Google Business Profile for current hours and pricing.

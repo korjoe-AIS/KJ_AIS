@@ -1,0 +1,21 @@
+QUESTION: Who is the most experienced injector in Hanover, MD?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Several med spas near Hanover, MD stand out based on reviews and services [1][2].
+
+## Bayview Demo Skin Studio
+- Open Saturdays with online booking; popular membership plans [1].
+
+## Ember Demo Injectables
+- Known for lip filler and first-time Botox consultations [1].
+
+## Northstar Demo Aesthetics
+- Has a detailed FAQ and before-and-after gallery on its website [1].
+
+## Lumen Demo Aesthetics
+- A newer spa offering Botox and facials; fewer reviews so far [1].
+
+Sources:
+[1] https://halcyon-demo-medspa.example/botox
+[2] https://www.yelp.com/search?find_desc=med+spa&find_loc=Hanover%2C+MD
+[3] https://www.realself.com/find/Maryland/Hanover

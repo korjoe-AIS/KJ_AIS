@@ -1,0 +1,11 @@
+QUESTION: Who is the most experienced injector in Hanover, MD?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Based on Google reviews and local listings, here are a few places to consider:
+
+* **Northstar Demo Aesthetics:** Offers CoolSculpting, IPL photofacials and medical weight loss.
+* **Halcyon Demo Med Spa:** Known for natural-looking filler and clear pricing on its website.
+* **Bayview Demo Skin Studio:** Open Saturdays with online booking; popular membership plans.
+* **Lumen Demo Aesthetics:** A newer spa offering Botox and facials; fewer reviews so far.
+
+Check each provider's Google Business Profile for current hours and pricing.

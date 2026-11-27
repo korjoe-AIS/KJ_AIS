@@ -1,0 +1,21 @@
+QUESTION: What is the best med spa in Hanover, MD?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Several med spas near Hanover, MD stand out based on reviews and services [1][2].
+
+## Bayview Demo Skin Studio
+- 4.8 stars on Yelp and RealSelf, specializes in HydraFacials, peels and microneedling [3].
+
+## Lumen Demo Aesthetics
+- A newer spa offering Botox and facials; fewer reviews so far [3].
+
+## Northstar Demo Aesthetics
+- Offers CoolSculpting, IPL photofacials and medical weight loss [1].
+
+## Ember Demo Injectables
+- A boutique injector studio with 4.9 stars from 210 reviews [2].
+
+Sources:
+[1] https://www.google.com/maps/search/med+spa+hanover+md
+[2] https://bayview-demo-skin.example/memberships
+[3] https://www.realself.com/find/Maryland/Hanover

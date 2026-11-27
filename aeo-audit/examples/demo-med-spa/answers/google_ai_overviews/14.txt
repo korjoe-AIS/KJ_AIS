@@ -1,0 +1,9 @@
+QUESTION: Recommend a med spa in Hanover, MD for a first-time Botox client.
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Halcyon Demo Med Spa is frequently mentioned for this in Hanover, MD. Other options include:
+- Bayview Demo Skin Studio: frequently recommended in local Facebook groups for laser hair removal
+- Northstar Demo Aesthetics: has a detailed FAQ and before-and-after gallery on its website
+- Willowmere Demo Wellness: affordable packages and monthly specials
+
+Sources: https://www.yelp.com/search?find_desc=med+spa&find_loc=Hanover%2C+MD, https://www.google.com/maps/search/med+spa+hanover+md

@@ -1,0 +1,18 @@
+QUESTION: Top 5 med spas in Hanover, MD in 2026?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Several med spas near Hanover, MD stand out based on reviews and services [1][2].
+
+## Bayview Demo Skin Studio
+- Open Saturdays with online booking; popular membership plans [1].
+
+## Halcyon Demo Med Spa
+- Rated 4.9 stars with over 600 Google reviews, nurse injectors with 10+ years of experience [2].
+
+## Ember Demo Injectables
+- Known for lip filler and first-time Botox consultations [1].
+
+Sources:
+[1] https://www.facebook.com/groups/demo-hanover-moms
+[2] https://bayview-demo-skin.example/memberships
+[3] https://www.realself.com/find/Maryland/Hanover

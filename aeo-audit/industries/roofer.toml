@@ -1,0 +1,25 @@
+name = "Roofers"
+name_hints = ["Roofing", "Roofers", "Roof", "Exteriors", "Exterior", "Construction", "Contractors", "Contracting", "Builders", "Restoration", "Home", "Services"]
+directories = ["Google", "Yelp", "Angi", "HomeAdvisor", "BBB", "GAF", "Owens Corning", "CertainTeed", "Thumbtack", "Nextdoor", "Facebook", "Houzz"]
+questions = [
+  "Who is the best roofing company in {place}?",
+  "I have a roof leak. Who should I call in {city}?",
+  "Most trusted roofer in {place} for a full roof replacement?",
+  "Which roofers in {place} help with insurance claims after hail or storm damage?",
+  "Affordable roof repair in {city}?",
+  "Which roofing companies in {place} have the best reviews?",
+  "GAF certified roofer in {place}?",
+  "Best metal roof installer in {city}?",
+  "Roofing company in {place} that offers financing?",
+  "Emergency roof tarp service in {city}?",
+  "Who does free roof inspections in {place}?",
+  "How do I avoid storm chasers in {city}? Which local roofers are legit?",
+  "Best roofer in {place} for a flat or commercial roof?",
+  "Who replaces gutters and roofs in {city}?",
+  "Which roofing companies in {place} are family owned?",
+  "Roofer in {city} with a long workmanship warranty?",
+  "Best roofer for a historic home in {place}?",
+  "Which roofer do people in {city} recommend on Nextdoor?",
+  "How much is a new roof in {city}, and who should I get quotes from?",
+  "Top 5 roofing companies in {place} in 2026?",
+]

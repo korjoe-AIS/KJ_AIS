@@ -1,0 +1,11 @@
+QUESTION: Recommend a med spa in Hanover, MD for a first-time Botox client.
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Here are some well-regarded options in the Hanover, MD area:
+
+1. **Bayview Demo Skin Studio** - 4.8 stars on Yelp and RealSelf, specializes in HydraFacials, peels and microneedling.
+2. **Willowmere Demo Wellness** - Affordable packages and monthly specials.
+3. **Lumen Demo Aesthetics** - A newer spa offering Botox and facials; fewer reviews so far.
+4. **Northstar Demo Aesthetics** - Has a detailed FAQ and before-and-after gallery on its website.
+
+Tip: book a consultation first and ask who will do your treatment.

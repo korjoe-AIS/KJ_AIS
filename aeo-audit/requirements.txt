@@ -1,0 +1,5 @@
+# Only one extra library is needed: reportlab draws the PDF.
+# Install once with:  python3 -m pip install -r requirements.txt
+reportlab>=4.0
+# Python 3.11+ reads .toml files on its own. Older Pythons need this:
+tomli>=2.0; python_version < "3.11"

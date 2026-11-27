@@ -1,0 +1,11 @@
+QUESTION: Affordable Botox in Hanover that is still safe?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Based on Google reviews and local listings, here are a few places to consider:
+
+* **Halcyon Demo Med Spa:** Voted Best Med Spa by a local magazine; offers Botox, filler and laser treatments.
+* **Willowmere Demo Wellness:** Affordable packages and monthly specials.
+* **Bayview Demo Skin Studio:** Open Saturdays with online booking; popular membership plans.
+* **Northstar Demo Aesthetics:** Physician-owned, board-certified medical director on site.
+
+Check each provider's Google Business Profile for current hours and pricing.

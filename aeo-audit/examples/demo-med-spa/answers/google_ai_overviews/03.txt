@@ -1,0 +1,9 @@
+QUESTION: Top-rated med spas in Hanover for lip filler?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Willowmere Demo Wellness is frequently mentioned for this in Hanover, MD. Other options include:
+- Halcyon Demo Med Spa: known for natural-looking filler and clear pricing on its website
+- Bayview Demo Skin Studio: 4.8 stars on Yelp and RealSelf, specializes in HydraFacials, peels and microneedling
+- Northstar Demo Aesthetics: offers CoolSculpting, IPL photofacials and medical weight loss
+
+Sources: https://www.yelp.com/search?find_desc=med+spa&find_loc=Hanover%2C+MD, https://www.realself.com/find/Maryland/Hanover

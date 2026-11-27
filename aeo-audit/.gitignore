@@ -1,0 +1,7 @@
+# API keys live here. Never commit it.
+.env
+# Real client audits stay on your computer. This repo is PUBLIC.
+audits/
+__pycache__/
+*.pyc
+.pytest_cache/

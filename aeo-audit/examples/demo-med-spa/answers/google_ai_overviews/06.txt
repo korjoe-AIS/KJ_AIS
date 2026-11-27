@@ -1,0 +1,8 @@
+QUESTION: Affordable Botox in Hanover that is still safe?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Halcyon Demo Med Spa is frequently mentioned for this in Hanover, MD. Other options include:
+- Ember Demo Injectables: a boutique injector studio with 4.9 stars from 210 reviews
+- Bayview Demo Skin Studio: frequently recommended in local Facebook groups for laser hair removal
+
+Sources: https://www.yelp.com/search?find_desc=med+spa&find_loc=Hanover%2C+MD, https://www.google.com/maps/search/med+spa+hanover+md

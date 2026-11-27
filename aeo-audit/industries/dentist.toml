@@ -1,0 +1,29 @@
+# Industry template. Questions use {place} (like "Austin, TX") and {city} (like "Austin").
+# Edit freely. `python3 aeo.py prompts <audit>` copies these into an audit's prompts.txt.
+name = "Dentists"
+# Words that usually appear in a business name in this industry. Helps spot competitors in AI answers.
+name_hints = ["Dental", "Dentistry", "Dentist", "Smile", "Smiles", "Orthodontics", "Orthodontic", "DDS", "DMD", "Oral", "Teeth", "Tooth", "Implant", "Implants"]
+# Sites AI tools often cite for this industry.
+directories = ["Google", "Yelp", "Healthgrades", "Zocdoc", "WebMD", "Vitals", "US News", "BBB", "Facebook", "Nextdoor", "RateMDs", "Opencare", "ADA"]
+questions = [
+  "Who is the best dentist in {place}?",
+  "What are the top-rated family dentists in {place}?",
+  "I need a dentist in {city} who takes new patients. Who do you recommend?",
+  "Which dentist in {place} is good for kids?",
+  "Best cosmetic dentist in {place} for veneers or whitening?",
+  "Where can I get dental implants in {place}, and who is the most trusted?",
+  "Emergency dentist open today in {city}, who should I call?",
+  "Which dentists in {place} take Delta Dental insurance?",
+  "Affordable dentist in {city} without insurance?",
+  "Who is the best dentist in {place} for people who are scared of the dentist?",
+  "Best Invisalign provider in {place}?",
+  "Dentist in {city} with weekend or evening hours?",
+  "Which dental office in {place} has the best reviews?",
+  "Recommend a gentle dentist in {city} for a cleaning and checkup.",
+  "Who does the best root canals in {place}?",
+  "Is there a dentist in {city} that offers sedation dentistry?",
+  "Best dentist close to {city} with easy parking?",
+  "Which dentist in {place} do locals recommend most?",
+  "I just moved to {city}. How do I pick a good dentist, and which ones should I look at?",
+  "Top 5 dentists in {place} in 2026?",
+]

@@ -1,0 +1,11 @@
+QUESTION: Where do locals in Hanover go for skin tightening?
+SOURCE: DEMO (fake answer, made by make_demo_answers.py)
+----- paste the full answer below this line (include any links or sources) -----
+Based on Google reviews and local listings, here are a few places to consider:
+
+* **Bayview Demo Skin Studio:** Frequently recommended in local Facebook groups for laser hair removal.
+* **Ember Demo Injectables:** Known for lip filler and first-time Botox consultations.
+* **Halcyon Demo Med Spa:** Voted Best Med Spa by a local magazine; offers Botox, filler and laser treatments.
+* **Northstar Demo Aesthetics:** Offers CoolSculpting, IPL photofacials and medical weight loss.
+
+Check each provider's Google Business Profile for current hours and pricing.
